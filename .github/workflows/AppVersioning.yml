@@ -1,4 +1,5 @@
-name: Compilar e implementar la aplicación de .NET Core en la aplicación web AppVersioning
+name: Publish
+run-name: Compilar e implementar la aplicación de .NET Core en la aplicación web AppVersioning 
 on:
   push:
     branches:
